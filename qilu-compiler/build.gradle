@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.squareup:javapoet:1.10.0'
+    implementation 'com.google.auto.service:auto-service:1.0-rc4'
+    implementation 'com.google.auto:auto-common:0.10'
+    implementation project(':qilu-annotations')
+}
+
+sourceCompatibility = "1.8"
+targetCompatibility = "1.8"

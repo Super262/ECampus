@@ -1,0 +1,1 @@
+include ':app', ':qilu-annotations', ':qilu-compiler', ':qilu-core', ':qilu-ec', ':qilu-ui'
