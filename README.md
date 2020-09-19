@@ -2,6 +2,8 @@
 QiLu Software Competition
 
 ## 一、项目模块分解
+
+![image](https://github.com/Super262/ECampus/blob/master/screenshots/pic01.png)
 ### 注解Module
 提供代码生成器所需注解。
 ### 核心Module
